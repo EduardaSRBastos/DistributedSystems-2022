@@ -1,0 +1,187 @@
+syntax = "proto3";
+
+option csharp_namespace = "Cliente_administração";
+
+service User {
+	rpc GetUserInfo (UserLookupModel) returns (UserModel);
+	rpc CheckLogin (UserLogin) returns (Reply);
+	rpc InsertUser (UserLogin) returns (Reply);
+	rpc DeleteUser (UserLookupModel) returns (Reply);
+	rpc AddFundos (UserFundos) returns (Empty);
+	rpc RetrieveAllUsers (Empty) returns (UserList);
+
+	rpc GetEspetaculoInfo (EspetaculoLookupModel) returns (espetaculo);
+	rpc InsertEspetaculo (Addespetaculo) returns (Reply);
+	rpc UpdateEspetaculo (espetaculo) returns (Reply);
+	rpc RetrieveAllEspetaculos (Empty) returns (EspetaculoList);
+
+	rpc GetTeatroInfo (TeatroLookupModel) returns (teatro);
+	rpc InsertTeatro (Addteatro) returns (Reply);
+	rpc UpdateTeatro (teatro) returns (Reply);
+	rpc RetrieveAllTeatros (Empty) returns (TeatroList);
+
+	rpc GetSessaoInfo (SessaoLookupModel) returns (sessao);
+	rpc InsertSessao (Addsessao) returns (Reply);
+	rpc UpdateSessao (sessao) returns (Reply);
+	rpc DeleteSessao (SessaoLookupModel) returns (Reply);
+	rpc RetrieveAllSessao (Empty) returns (SessaoList);
+	rpc RetrieveFutureSessao (Empty) returns (SessaoList);
+
+	rpc ComprarBilhete (ComprarBilheteModel) returns (recibo);
+	rpc GetBilheteInfo (BilheteLookupModel) returns (bilhete);
+	rpc GetBilheteUser (UserLookupModel) returns (BilheteList);
+	rpc RetrieveAllBilhetes (Empty) returns (BilheteList);
+	rpc RetrieveAllBilhetesBought (Empty) returns (BilheteList);
+	rpc AnularBilhete (BilheteLookupModel) returns (Reply);
+	rpc QuantidadeBilhetes (SessaoLookupModel) returns (NumBilhetes);
+	rpc VerBilhete (BilheteLookupModel) returns (Empty);
+	rpc AdicionarBilhetes (CriarBilhetes) returns (Reply);
+}
+
+message Empty {}
+
+message Reply {
+	string result = 1;
+	bool isOk = 2;
+}
+
+message UserFundos {
+	string userName = 1;
+	double FundosAdicionar = 2;
+}
+
+message UserList {
+   repeated UserModel items = 1;
+}
+
+message UserLookupModel {
+	string userName = 1;
+}
+
+message UserLogin {
+	string Name = 1;
+	string password = 2;
+}
+
+message EspetaculoList {
+   repeated espetaculo items = 1;
+}
+
+message EspetaculoLookupModel {
+	int32 espetaculoId = 1;
+}
+
+message TeatroList {
+   repeated teatro items = 1;
+}
+
+message TeatroLookupModel {
+	int32 teatroId = 1;
+}
+
+message SessaoList {
+   repeated sessao items = 1;
+}
+
+message SessaoLookupModel {
+	int32 sessaoId = 1;
+}
+
+message BilheteList {
+   repeated bilhete items = 1;
+}
+
+message BilheteLookupModel {
+	int32 bilheteId = 1;
+}
+
+message NumBilhetes {
+	int32 quantidadeBilh = 1;
+}
+
+message ComprarBilheteModel{
+	int32 sessaoId = 1;
+	int32 quantidade = 2;
+	string username = 3;
+}
+
+message UserModel {
+	string id = 1;
+	string password = 2;
+	repeated bilhete bilhetes = 3;
+	double contaVirtual = 4;
+}
+
+message espetaculo {
+	int32 id = 1;
+    string nome = 2;
+	string sinopse = 3;
+	teatro teatros = 4;
+	string dataInicio = 5;
+	string dataFim = 6;
+	double preco = 7;
+}
+
+message Addespetaculo {
+    
+    string nome = 1;
+	string sinopse = 2;
+	teatro teatros = 3;
+	string dataInicio = 4;
+	string dataFim = 5;
+	double preco = 6;
+}
+
+message teatro {
+	int32 id = 1;
+	string nome = 2;
+	string localizacao = 3;
+	string morada = 4;
+	int32 telefone = 5;
+}
+
+message Addteatro {
+	string nome = 1;
+	string localizacao = 2;
+	string morada = 3;
+	int32 telefone = 4;
+}
+
+message sessao {
+    int32 id = 1;
+    espetaculo espetaculos = 2;
+	string data = 3;
+	string horaInicio = 4;
+	string horaFim = 5;
+	int32 lugarTotal = 6;
+	int32 lugarDisponivel = 7;
+}
+
+message CriarBilhetes{
+	int32 SessaoId = 1;
+	int32 quantidade = 2;
+}
+
+message Addsessao {
+    espetaculo espetaculos = 1;
+	string data = 2;
+	string horaInicio = 3;
+	string horaFim = 4;
+	int32 lugarTotal = 5;
+	int32 lugarDisponivel = 6;
+}
+
+message bilhete {
+    int32 id = 1;
+    sessao sessoes = 2;
+	bool visto = 3;
+}
+
+message recibo{
+	optional int32 id = 1;
+	optional int32 NumBilhetes = 2;
+	optional string clienteId = 3;
+	optional double Dinheirogasto = 4;
+	bool isOk = 5;
+	string Result = 6;
+}

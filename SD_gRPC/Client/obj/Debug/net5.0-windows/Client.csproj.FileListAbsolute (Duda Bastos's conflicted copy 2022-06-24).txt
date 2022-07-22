@@ -1,0 +1,353 @@
+C:\uni\Sistemas Distribuidos\TP2\Trabalho2\Client\bin\Debug\net5.0-windows\Client.exe
+C:\uni\Sistemas Distribuidos\TP2\Trabalho2\Client\bin\Debug\net5.0-windows\Client.deps.json
+C:\uni\Sistemas Distribuidos\TP2\Trabalho2\Client\bin\Debug\net5.0-windows\Client.runtimeconfig.json
+C:\uni\Sistemas Distribuidos\TP2\Trabalho2\Client\bin\Debug\net5.0-windows\Client.runtimeconfig.dev.json
+C:\uni\Sistemas Distribuidos\TP2\Trabalho2\Client\bin\Debug\net5.0-windows\Client.dll
+C:\uni\Sistemas Distribuidos\TP2\Trabalho2\Client\bin\Debug\net5.0-windows\ref\Client.dll
+C:\uni\Sistemas Distribuidos\TP2\Trabalho2\Client\bin\Debug\net5.0-windows\Client.pdb
+C:\uni\Sistemas Distribuidos\TP2\Trabalho2\Client\bin\Debug\net5.0-windows\Google.Protobuf.dll
+C:\uni\Sistemas Distribuidos\TP2\Trabalho2\Client\bin\Debug\net5.0-windows\Grpc.Core.Api.dll
+C:\uni\Sistemas Distribuidos\TP2\Trabalho2\Client\bin\Debug\net5.0-windows\Grpc.Net.Client.dll
+C:\uni\Sistemas Distribuidos\TP2\Trabalho2\Client\bin\Debug\net5.0-windows\Grpc.Net.Common.dll
+C:\uni\Sistemas Distribuidos\TP2\Trabalho2\Client\obj\Debug\net5.0-windows\Client.Inicial.resources
+C:\uni\Sistemas Distribuidos\TP2\Trabalho2\Client\obj\Debug\net5.0-windows\Client.Login.resources
+C:\uni\Sistemas Distribuidos\TP2\Trabalho2\Client\obj\Debug\net5.0-windows\Client.csproj.GenerateResource.cache
+C:\uni\Sistemas Distribuidos\TP2\Trabalho2\Client\obj\Debug\net5.0-windows\Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\uni\Sistemas Distribuidos\TP2\Trabalho2\Client\obj\Debug\net5.0-windows\Client.AssemblyInfoInputs.cache
+C:\uni\Sistemas Distribuidos\TP2\Trabalho2\Client\obj\Debug\net5.0-windows\Client.AssemblyInfo.cs
+C:\uni\Sistemas Distribuidos\TP2\Trabalho2\Client\obj\Debug\net5.0-windows\Client.csproj.CoreCompileInputs.cache
+C:\uni\Sistemas Distribuidos\TP2\Trabalho2\Client\obj\Debug\net5.0-windows\Client.dll
+C:\uni\Sistemas Distribuidos\TP2\Trabalho2\Client\obj\Debug\net5.0-windows\ref\Client.dll
+C:\uni\Sistemas Distribuidos\TP2\Trabalho2\Client\obj\Debug\net5.0-windows\Client.pdb
+C:\uni\Sistemas Distribuidos\TP2\Trabalho2\Client\obj\Debug\net5.0-windows\Client.genruntimeconfig.cache
+C:\uni\Sistemas Distribuidos\TP2\Trabalho2\Client\bin\Debug\net5.0-windows\Grpc.AspNetCore.Web.dll
+C:\uni\Sistemas Distribuidos\TP2\Trabalho2\Client\bin\Debug\net5.0-windows\Humanizer.dll
+C:\uni\Sistemas Distribuidos\TP2\Trabalho2\Client\bin\Debug\net5.0-windows\Microsoft.Data.SqlClient.dll
+C:\uni\Sistemas Distribuidos\TP2\Trabalho2\Client\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\uni\Sistemas Distribuidos\TP2\Trabalho2\Client\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\uni\Sistemas Distribuidos\TP2\Trabalho2\Client\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\uni\Sistemas Distribuidos\TP2\Trabalho2\Client\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\uni\Sistemas Distribuidos\TP2\Trabalho2\Client\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\uni\Sistemas Distribuidos\TP2\Trabalho2\Client\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\uni\Sistemas Distribuidos\TP2\Trabalho2\Client\bin\Debug\net5.0-windows\Microsoft.Identity.Client.dll
+C:\uni\Sistemas Distribuidos\TP2\Trabalho2\Client\bin\Debug\net5.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\uni\Sistemas Distribuidos\TP2\Trabalho2\Client\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\uni\Sistemas Distribuidos\TP2\Trabalho2\Client\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\uni\Sistemas Distribuidos\TP2\Trabalho2\Client\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\uni\Sistemas Distribuidos\TP2\Trabalho2\Client\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\uni\Sistemas Distribuidos\TP2\Trabalho2\Client\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+C:\uni\Sistemas Distribuidos\TP2\Trabalho2\Client\bin\Debug\net5.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\uni\Sistemas Distribuidos\TP2\Trabalho2\Client\bin\Debug\net5.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\uni\Sistemas Distribuidos\TP2\Trabalho2\Client\bin\Debug\net5.0-windows\System.Runtime.Caching.dll
+C:\uni\Sistemas Distribuidos\TP2\Trabalho2\Client\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\uni\Sistemas Distribuidos\TP2\Trabalho2\Client\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\uni\Sistemas Distribuidos\TP2\Trabalho2\Client\bin\Debug\net5.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\uni\Sistemas Distribuidos\TP2\Trabalho2\Client\bin\Debug\net5.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\uni\Sistemas Distribuidos\TP2\Trabalho2\Client\bin\Debug\net5.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\uni\Sistemas Distribuidos\TP2\Trabalho2\Client\bin\Debug\net5.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\uni\Sistemas Distribuidos\TP2\Trabalho2\Client\bin\Debug\net5.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\uni\Sistemas Distribuidos\TP2\Trabalho2\Client\bin\Debug\net5.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\uni\Sistemas Distribuidos\TP2\Trabalho2\Client\bin\Debug\net5.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\uni\Sistemas Distribuidos\TP2\Trabalho2\Client\bin\Debug\net5.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\uni\Sistemas Distribuidos\TP2\Trabalho2\Client\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\uni\Sistemas Distribuidos\TP2\Trabalho2TEST\Client\bin\Debug\net5.0-windows\Client.exe
+C:\uni\Sistemas Distribuidos\TP2\Trabalho2TEST\Client\bin\Debug\net5.0-windows\Client.deps.json
+C:\uni\Sistemas Distribuidos\TP2\Trabalho2TEST\Client\bin\Debug\net5.0-windows\Client.runtimeconfig.json
+C:\uni\Sistemas Distribuidos\TP2\Trabalho2TEST\Client\bin\Debug\net5.0-windows\Client.runtimeconfig.dev.json
+C:\uni\Sistemas Distribuidos\TP2\Trabalho2TEST\Client\bin\Debug\net5.0-windows\Client.dll
+C:\uni\Sistemas Distribuidos\TP2\Trabalho2TEST\Client\bin\Debug\net5.0-windows\ref\Client.dll
+C:\uni\Sistemas Distribuidos\TP2\Trabalho2TEST\Client\bin\Debug\net5.0-windows\Client.pdb
+C:\uni\Sistemas Distribuidos\TP2\Trabalho2TEST\Client\bin\Debug\net5.0-windows\Google.Protobuf.dll
+C:\uni\Sistemas Distribuidos\TP2\Trabalho2TEST\Client\bin\Debug\net5.0-windows\Grpc.AspNetCore.Web.dll
+C:\uni\Sistemas Distribuidos\TP2\Trabalho2TEST\Client\bin\Debug\net5.0-windows\Grpc.Core.Api.dll
+C:\uni\Sistemas Distribuidos\TP2\Trabalho2TEST\Client\bin\Debug\net5.0-windows\Grpc.Net.Client.dll
+C:\uni\Sistemas Distribuidos\TP2\Trabalho2TEST\Client\bin\Debug\net5.0-windows\Grpc.Net.Common.dll
+C:\uni\Sistemas Distribuidos\TP2\Trabalho2TEST\Client\bin\Debug\net5.0-windows\Humanizer.dll
+C:\uni\Sistemas Distribuidos\TP2\Trabalho2TEST\Client\bin\Debug\net5.0-windows\Microsoft.Data.SqlClient.dll
+C:\uni\Sistemas Distribuidos\TP2\Trabalho2TEST\Client\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\uni\Sistemas Distribuidos\TP2\Trabalho2TEST\Client\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\uni\Sistemas Distribuidos\TP2\Trabalho2TEST\Client\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\uni\Sistemas Distribuidos\TP2\Trabalho2TEST\Client\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\uni\Sistemas Distribuidos\TP2\Trabalho2TEST\Client\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\uni\Sistemas Distribuidos\TP2\Trabalho2TEST\Client\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\uni\Sistemas Distribuidos\TP2\Trabalho2TEST\Client\bin\Debug\net5.0-windows\Microsoft.Identity.Client.dll
+C:\uni\Sistemas Distribuidos\TP2\Trabalho2TEST\Client\bin\Debug\net5.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\uni\Sistemas Distribuidos\TP2\Trabalho2TEST\Client\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\uni\Sistemas Distribuidos\TP2\Trabalho2TEST\Client\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\uni\Sistemas Distribuidos\TP2\Trabalho2TEST\Client\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\uni\Sistemas Distribuidos\TP2\Trabalho2TEST\Client\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\uni\Sistemas Distribuidos\TP2\Trabalho2TEST\Client\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+C:\uni\Sistemas Distribuidos\TP2\Trabalho2TEST\Client\bin\Debug\net5.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\uni\Sistemas Distribuidos\TP2\Trabalho2TEST\Client\bin\Debug\net5.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\uni\Sistemas Distribuidos\TP2\Trabalho2TEST\Client\bin\Debug\net5.0-windows\System.Runtime.Caching.dll
+C:\uni\Sistemas Distribuidos\TP2\Trabalho2TEST\Client\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\uni\Sistemas Distribuidos\TP2\Trabalho2TEST\Client\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\uni\Sistemas Distribuidos\TP2\Trabalho2TEST\Client\bin\Debug\net5.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\uni\Sistemas Distribuidos\TP2\Trabalho2TEST\Client\bin\Debug\net5.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\uni\Sistemas Distribuidos\TP2\Trabalho2TEST\Client\bin\Debug\net5.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\uni\Sistemas Distribuidos\TP2\Trabalho2TEST\Client\bin\Debug\net5.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\uni\Sistemas Distribuidos\TP2\Trabalho2TEST\Client\bin\Debug\net5.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\uni\Sistemas Distribuidos\TP2\Trabalho2TEST\Client\bin\Debug\net5.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\uni\Sistemas Distribuidos\TP2\Trabalho2TEST\Client\bin\Debug\net5.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\uni\Sistemas Distribuidos\TP2\Trabalho2TEST\Client\bin\Debug\net5.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\uni\Sistemas Distribuidos\TP2\Trabalho2TEST\Client\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\uni\Sistemas Distribuidos\TP2\Trabalho2TEST\Client\obj\Debug\net5.0-windows\Client.Bilhete.resources
+C:\uni\Sistemas Distribuidos\TP2\Trabalho2TEST\Client\obj\Debug\net5.0-windows\Client.Inicial.resources
+C:\uni\Sistemas Distribuidos\TP2\Trabalho2TEST\Client\obj\Debug\net5.0-windows\Client.list.resources
+C:\uni\Sistemas Distribuidos\TP2\Trabalho2TEST\Client\obj\Debug\net5.0-windows\Client.Login.resources
+C:\uni\Sistemas Distribuidos\TP2\Trabalho2TEST\Client\obj\Debug\net5.0-windows\Client.csproj.GenerateResource.cache
+C:\uni\Sistemas Distribuidos\TP2\Trabalho2TEST\Client\obj\Debug\net5.0-windows\Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\uni\Sistemas Distribuidos\TP2\Trabalho2TEST\Client\obj\Debug\net5.0-windows\Client.AssemblyInfoInputs.cache
+C:\uni\Sistemas Distribuidos\TP2\Trabalho2TEST\Client\obj\Debug\net5.0-windows\Client.AssemblyInfo.cs
+C:\uni\Sistemas Distribuidos\TP2\Trabalho2TEST\Client\obj\Debug\net5.0-windows\Client.csproj.CoreCompileInputs.cache
+C:\uni\Sistemas Distribuidos\TP2\Trabalho2TEST\Client\obj\Debug\net5.0-windows\Client.dll
+C:\uni\Sistemas Distribuidos\TP2\Trabalho2TEST\Client\obj\Debug\net5.0-windows\ref\Client.dll
+C:\uni\Sistemas Distribuidos\TP2\Trabalho2TEST\Client\obj\Debug\net5.0-windows\Client.pdb
+C:\uni\Sistemas Distribuidos\TP2\Trabalho2TEST\Client\obj\Debug\net5.0-windows\Client.genruntimeconfig.cache
+C:\uni\Sistemas Distribuidos\TP2\Trabalho2TEST\Client\obj\Debug\net5.0-windows\Client.csproj.AssemblyReference.cache
+C:\uni\Sistemas Distribuidos\TP2\Trabalho2\Client\obj\Debug\net5.0-windows\Client.csproj.AssemblyReference.cache
+C:\uni\Sistemas Distribuidos\TP2\Trabalho2\Client\obj\Debug\net5.0-windows\Client.Fundos.resources
+C:\uni\Sistemas Distribuidos\TP2\Trabalho2\Client\obj\Debug\net5.0-windows\Client.ListaGestor.resources
+C:\uni\Sistemas Distribuidos\TP2\Trabalho2\Client\obj\Debug\net5.0-windows\Client.AdicionarEspetaculo.resources
+C:\uni\Sistemas Distribuidos\TP2\Trabalho2\Client\obj\Debug\net5.0-windows\Client.AdicionarSessao.resources
+C:\uni\Sistemas Distribuidos\TP2\Trabalho2\Client\obj\Debug\net5.0-windows\Client.AdicionarTeatro.resources
+C:\uni\Sistemas Distribuidos\TP2\Trabalho2\Client\obj\Debug\net5.0-windows\Client.AlterarEspetaculo.resources
+C:\uni\Sistemas Distribuidos\TP2\Trabalho2\Client\obj\Debug\net5.0-windows\Client.AlterarTeatro.resources
+C:\uni\Sistemas Distribuidos\TP2\Trabalho2\Client\obj\Debug\net5.0-windows\Client.Listas.resources
+C:\Users\franc\Dropbox\SD\Trabalho2New\Client\bin\Debug\net5.0-windows\Client.exe
+C:\Users\franc\Dropbox\SD\Trabalho2New\Client\bin\Debug\net5.0-windows\Client.deps.json
+C:\Users\franc\Dropbox\SD\Trabalho2New\Client\bin\Debug\net5.0-windows\Client.runtimeconfig.json
+C:\Users\franc\Dropbox\SD\Trabalho2New\Client\bin\Debug\net5.0-windows\Client.runtimeconfig.dev.json
+C:\Users\franc\Dropbox\SD\Trabalho2New\Client\bin\Debug\net5.0-windows\Client.dll
+C:\Users\franc\Dropbox\SD\Trabalho2New\Client\bin\Debug\net5.0-windows\ref\Client.dll
+C:\Users\franc\Dropbox\SD\Trabalho2New\Client\bin\Debug\net5.0-windows\Client.pdb
+C:\Users\franc\Dropbox\SD\Trabalho2New\Client\bin\Debug\net5.0-windows\Google.Protobuf.dll
+C:\Users\franc\Dropbox\SD\Trabalho2New\Client\bin\Debug\net5.0-windows\Grpc.AspNetCore.Web.dll
+C:\Users\franc\Dropbox\SD\Trabalho2New\Client\bin\Debug\net5.0-windows\Grpc.Core.Api.dll
+C:\Users\franc\Dropbox\SD\Trabalho2New\Client\bin\Debug\net5.0-windows\Grpc.Net.Client.dll
+C:\Users\franc\Dropbox\SD\Trabalho2New\Client\bin\Debug\net5.0-windows\Grpc.Net.Common.dll
+C:\Users\franc\Dropbox\SD\Trabalho2New\Client\bin\Debug\net5.0-windows\Humanizer.dll
+C:\Users\franc\Dropbox\SD\Trabalho2New\Client\bin\Debug\net5.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\franc\Dropbox\SD\Trabalho2New\Client\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\franc\Dropbox\SD\Trabalho2New\Client\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\franc\Dropbox\SD\Trabalho2New\Client\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\franc\Dropbox\SD\Trabalho2New\Client\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\franc\Dropbox\SD\Trabalho2New\Client\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\franc\Dropbox\SD\Trabalho2New\Client\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\franc\Dropbox\SD\Trabalho2New\Client\bin\Debug\net5.0-windows\Microsoft.Identity.Client.dll
+C:\Users\franc\Dropbox\SD\Trabalho2New\Client\bin\Debug\net5.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\franc\Dropbox\SD\Trabalho2New\Client\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\franc\Dropbox\SD\Trabalho2New\Client\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\franc\Dropbox\SD\Trabalho2New\Client\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\franc\Dropbox\SD\Trabalho2New\Client\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\franc\Dropbox\SD\Trabalho2New\Client\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+C:\Users\franc\Dropbox\SD\Trabalho2New\Client\bin\Debug\net5.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\franc\Dropbox\SD\Trabalho2New\Client\bin\Debug\net5.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\franc\Dropbox\SD\Trabalho2New\Client\bin\Debug\net5.0-windows\System.Runtime.Caching.dll
+C:\Users\franc\Dropbox\SD\Trabalho2New\Client\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\franc\Dropbox\SD\Trabalho2New\Client\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\franc\Dropbox\SD\Trabalho2New\Client\bin\Debug\net5.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\franc\Dropbox\SD\Trabalho2New\Client\bin\Debug\net5.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\franc\Dropbox\SD\Trabalho2New\Client\bin\Debug\net5.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\franc\Dropbox\SD\Trabalho2New\Client\bin\Debug\net5.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\franc\Dropbox\SD\Trabalho2New\Client\bin\Debug\net5.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\franc\Dropbox\SD\Trabalho2New\Client\bin\Debug\net5.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\franc\Dropbox\SD\Trabalho2New\Client\bin\Debug\net5.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\franc\Dropbox\SD\Trabalho2New\Client\bin\Debug\net5.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\franc\Dropbox\SD\Trabalho2New\Client\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\franc\Dropbox\SD\Trabalho2New\Client\obj\Debug\net5.0-windows\Client.csproj.AssemblyReference.cache
+C:\Users\franc\Dropbox\SD\Trabalho2New\Client\obj\Debug\net5.0-windows\Client.AdicionarEspetaculo.resources
+C:\Users\franc\Dropbox\SD\Trabalho2New\Client\obj\Debug\net5.0-windows\Client.AdicionarSessao.resources
+C:\Users\franc\Dropbox\SD\Trabalho2New\Client\obj\Debug\net5.0-windows\Client.AdicionarTeatro.resources
+C:\Users\franc\Dropbox\SD\Trabalho2New\Client\obj\Debug\net5.0-windows\Client.AlterarEspetaculo.resources
+C:\Users\franc\Dropbox\SD\Trabalho2New\Client\obj\Debug\net5.0-windows\Client.AlterarTeatro.resources
+C:\Users\franc\Dropbox\SD\Trabalho2New\Client\obj\Debug\net5.0-windows\Client.Fundos.resources
+C:\Users\franc\Dropbox\SD\Trabalho2New\Client\obj\Debug\net5.0-windows\Client.Inicial.resources
+C:\Users\franc\Dropbox\SD\Trabalho2New\Client\obj\Debug\net5.0-windows\Client.ListaGestor.resources
+C:\Users\franc\Dropbox\SD\Trabalho2New\Client\obj\Debug\net5.0-windows\Client.Listas.resources
+C:\Users\franc\Dropbox\SD\Trabalho2New\Client\obj\Debug\net5.0-windows\Client.Login.resources
+C:\Users\franc\Dropbox\SD\Trabalho2New\Client\obj\Debug\net5.0-windows\Client.csproj.GenerateResource.cache
+C:\Users\franc\Dropbox\SD\Trabalho2New\Client\obj\Debug\net5.0-windows\Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\franc\Dropbox\SD\Trabalho2New\Client\obj\Debug\net5.0-windows\Client.AssemblyInfoInputs.cache
+C:\Users\franc\Dropbox\SD\Trabalho2New\Client\obj\Debug\net5.0-windows\Client.AssemblyInfo.cs
+C:\Users\franc\Dropbox\SD\Trabalho2New\Client\obj\Debug\net5.0-windows\Client.csproj.CoreCompileInputs.cache
+C:\Users\franc\Dropbox\SD\Trabalho2New\Client\obj\Debug\net5.0-windows\Client.csproj.CopyComplete
+C:\Users\franc\Dropbox\SD\Trabalho2New\Client\obj\Debug\net5.0-windows\Client.dll
+C:\Users\franc\Dropbox\SD\Trabalho2New\Client\obj\Debug\net5.0-windows\ref\Client.dll
+C:\Users\franc\Dropbox\SD\Trabalho2New\Client\obj\Debug\net5.0-windows\Client.pdb
+C:\Users\franc\Dropbox\SD\Trabalho2New\Client\obj\Debug\net5.0-windows\Client.genruntimeconfig.cache
+C:\Users\franc\OneDrive\Ambiente de Trabalho\Trabalho2New\Client\bin\Debug\net5.0-windows\Client.exe
+C:\Users\franc\OneDrive\Ambiente de Trabalho\Trabalho2New\Client\bin\Debug\net5.0-windows\Client.deps.json
+C:\Users\franc\OneDrive\Ambiente de Trabalho\Trabalho2New\Client\bin\Debug\net5.0-windows\Client.runtimeconfig.json
+C:\Users\franc\OneDrive\Ambiente de Trabalho\Trabalho2New\Client\bin\Debug\net5.0-windows\Client.runtimeconfig.dev.json
+C:\Users\franc\OneDrive\Ambiente de Trabalho\Trabalho2New\Client\bin\Debug\net5.0-windows\Client.dll
+C:\Users\franc\OneDrive\Ambiente de Trabalho\Trabalho2New\Client\bin\Debug\net5.0-windows\ref\Client.dll
+C:\Users\franc\OneDrive\Ambiente de Trabalho\Trabalho2New\Client\bin\Debug\net5.0-windows\Client.pdb
+C:\Users\franc\OneDrive\Ambiente de Trabalho\Trabalho2New\Client\bin\Debug\net5.0-windows\Google.Protobuf.dll
+C:\Users\franc\OneDrive\Ambiente de Trabalho\Trabalho2New\Client\bin\Debug\net5.0-windows\Grpc.AspNetCore.Web.dll
+C:\Users\franc\OneDrive\Ambiente de Trabalho\Trabalho2New\Client\bin\Debug\net5.0-windows\Grpc.Core.Api.dll
+C:\Users\franc\OneDrive\Ambiente de Trabalho\Trabalho2New\Client\bin\Debug\net5.0-windows\Grpc.Net.Client.dll
+C:\Users\franc\OneDrive\Ambiente de Trabalho\Trabalho2New\Client\bin\Debug\net5.0-windows\Grpc.Net.Common.dll
+C:\Users\franc\OneDrive\Ambiente de Trabalho\Trabalho2New\Client\bin\Debug\net5.0-windows\Humanizer.dll
+C:\Users\franc\OneDrive\Ambiente de Trabalho\Trabalho2New\Client\bin\Debug\net5.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\franc\OneDrive\Ambiente de Trabalho\Trabalho2New\Client\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\franc\OneDrive\Ambiente de Trabalho\Trabalho2New\Client\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\franc\OneDrive\Ambiente de Trabalho\Trabalho2New\Client\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\franc\OneDrive\Ambiente de Trabalho\Trabalho2New\Client\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\franc\OneDrive\Ambiente de Trabalho\Trabalho2New\Client\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\franc\OneDrive\Ambiente de Trabalho\Trabalho2New\Client\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\franc\OneDrive\Ambiente de Trabalho\Trabalho2New\Client\bin\Debug\net5.0-windows\Microsoft.Identity.Client.dll
+C:\Users\franc\OneDrive\Ambiente de Trabalho\Trabalho2New\Client\bin\Debug\net5.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\franc\OneDrive\Ambiente de Trabalho\Trabalho2New\Client\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\franc\OneDrive\Ambiente de Trabalho\Trabalho2New\Client\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\franc\OneDrive\Ambiente de Trabalho\Trabalho2New\Client\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\franc\OneDrive\Ambiente de Trabalho\Trabalho2New\Client\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\franc\OneDrive\Ambiente de Trabalho\Trabalho2New\Client\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+C:\Users\franc\OneDrive\Ambiente de Trabalho\Trabalho2New\Client\bin\Debug\net5.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\franc\OneDrive\Ambiente de Trabalho\Trabalho2New\Client\bin\Debug\net5.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\franc\OneDrive\Ambiente de Trabalho\Trabalho2New\Client\bin\Debug\net5.0-windows\System.Runtime.Caching.dll
+C:\Users\franc\OneDrive\Ambiente de Trabalho\Trabalho2New\Client\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\franc\OneDrive\Ambiente de Trabalho\Trabalho2New\Client\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\franc\OneDrive\Ambiente de Trabalho\Trabalho2New\Client\bin\Debug\net5.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\franc\OneDrive\Ambiente de Trabalho\Trabalho2New\Client\bin\Debug\net5.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\franc\OneDrive\Ambiente de Trabalho\Trabalho2New\Client\bin\Debug\net5.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\franc\OneDrive\Ambiente de Trabalho\Trabalho2New\Client\bin\Debug\net5.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\franc\OneDrive\Ambiente de Trabalho\Trabalho2New\Client\bin\Debug\net5.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\franc\OneDrive\Ambiente de Trabalho\Trabalho2New\Client\bin\Debug\net5.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\franc\OneDrive\Ambiente de Trabalho\Trabalho2New\Client\bin\Debug\net5.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\franc\OneDrive\Ambiente de Trabalho\Trabalho2New\Client\bin\Debug\net5.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\franc\OneDrive\Ambiente de Trabalho\Trabalho2New\Client\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\franc\OneDrive\Ambiente de Trabalho\Trabalho2New\Client\obj\Debug\net5.0-windows\Client.csproj.AssemblyReference.cache
+C:\Users\franc\OneDrive\Ambiente de Trabalho\Trabalho2New\Client\obj\Debug\net5.0-windows\Client.AdicionarEspetaculo.resources
+C:\Users\franc\OneDrive\Ambiente de Trabalho\Trabalho2New\Client\obj\Debug\net5.0-windows\Client.AdicionarSessao.resources
+C:\Users\franc\OneDrive\Ambiente de Trabalho\Trabalho2New\Client\obj\Debug\net5.0-windows\Client.AdicionarTeatro.resources
+C:\Users\franc\OneDrive\Ambiente de Trabalho\Trabalho2New\Client\obj\Debug\net5.0-windows\Client.AlterarEspetaculo.resources
+C:\Users\franc\OneDrive\Ambiente de Trabalho\Trabalho2New\Client\obj\Debug\net5.0-windows\Client.AlterarTeatro.resources
+C:\Users\franc\OneDrive\Ambiente de Trabalho\Trabalho2New\Client\obj\Debug\net5.0-windows\Client.Fundos.resources
+C:\Users\franc\OneDrive\Ambiente de Trabalho\Trabalho2New\Client\obj\Debug\net5.0-windows\Client.Inicial.resources
+C:\Users\franc\OneDrive\Ambiente de Trabalho\Trabalho2New\Client\obj\Debug\net5.0-windows\Client.ListaGestor.resources
+C:\Users\franc\OneDrive\Ambiente de Trabalho\Trabalho2New\Client\obj\Debug\net5.0-windows\Client.Listas.resources
+C:\Users\franc\OneDrive\Ambiente de Trabalho\Trabalho2New\Client\obj\Debug\net5.0-windows\Client.Login.resources
+C:\Users\franc\OneDrive\Ambiente de Trabalho\Trabalho2New\Client\obj\Debug\net5.0-windows\Client.csproj.GenerateResource.cache
+C:\Users\franc\OneDrive\Ambiente de Trabalho\Trabalho2New\Client\obj\Debug\net5.0-windows\Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\franc\OneDrive\Ambiente de Trabalho\Trabalho2New\Client\obj\Debug\net5.0-windows\Client.AssemblyInfoInputs.cache
+C:\Users\franc\OneDrive\Ambiente de Trabalho\Trabalho2New\Client\obj\Debug\net5.0-windows\Client.AssemblyInfo.cs
+C:\Users\franc\OneDrive\Ambiente de Trabalho\Trabalho2New\Client\obj\Debug\net5.0-windows\Client.csproj.CoreCompileInputs.cache
+C:\Users\franc\OneDrive\Ambiente de Trabalho\Trabalho2New\Client\obj\Debug\net5.0-windows\Client.csproj.CopyComplete
+C:\Users\franc\OneDrive\Ambiente de Trabalho\Trabalho2New\Client\obj\Debug\net5.0-windows\Client.dll
+C:\Users\franc\OneDrive\Ambiente de Trabalho\Trabalho2New\Client\obj\Debug\net5.0-windows\ref\Client.dll
+C:\Users\franc\OneDrive\Ambiente de Trabalho\Trabalho2New\Client\obj\Debug\net5.0-windows\Client.pdb
+C:\Users\franc\OneDrive\Ambiente de Trabalho\Trabalho2New\Client\obj\Debug\net5.0-windows\Client.genruntimeconfig.cache
+C:\Users\franc\OneDrive\Ambiente de Trabalho\Trabalho2Novo\Client\bin\Debug\net5.0-windows\Client.exe
+C:\Users\franc\OneDrive\Ambiente de Trabalho\Trabalho2Novo\Client\bin\Debug\net5.0-windows\Client.deps.json
+C:\Users\franc\OneDrive\Ambiente de Trabalho\Trabalho2Novo\Client\bin\Debug\net5.0-windows\Client.runtimeconfig.json
+C:\Users\franc\OneDrive\Ambiente de Trabalho\Trabalho2Novo\Client\bin\Debug\net5.0-windows\Client.runtimeconfig.dev.json
+C:\Users\franc\OneDrive\Ambiente de Trabalho\Trabalho2Novo\Client\bin\Debug\net5.0-windows\Client.dll
+C:\Users\franc\OneDrive\Ambiente de Trabalho\Trabalho2Novo\Client\bin\Debug\net5.0-windows\ref\Client.dll
+C:\Users\franc\OneDrive\Ambiente de Trabalho\Trabalho2Novo\Client\bin\Debug\net5.0-windows\Client.pdb
+C:\Users\franc\OneDrive\Ambiente de Trabalho\Trabalho2Novo\Client\bin\Debug\net5.0-windows\Google.Protobuf.dll
+C:\Users\franc\OneDrive\Ambiente de Trabalho\Trabalho2Novo\Client\bin\Debug\net5.0-windows\Grpc.AspNetCore.Web.dll
+C:\Users\franc\OneDrive\Ambiente de Trabalho\Trabalho2Novo\Client\bin\Debug\net5.0-windows\Grpc.Core.Api.dll
+C:\Users\franc\OneDrive\Ambiente de Trabalho\Trabalho2Novo\Client\bin\Debug\net5.0-windows\Grpc.Net.Client.dll
+C:\Users\franc\OneDrive\Ambiente de Trabalho\Trabalho2Novo\Client\bin\Debug\net5.0-windows\Grpc.Net.Common.dll
+C:\Users\franc\OneDrive\Ambiente de Trabalho\Trabalho2Novo\Client\bin\Debug\net5.0-windows\Humanizer.dll
+C:\Users\franc\OneDrive\Ambiente de Trabalho\Trabalho2Novo\Client\bin\Debug\net5.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\franc\OneDrive\Ambiente de Trabalho\Trabalho2Novo\Client\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\franc\OneDrive\Ambiente de Trabalho\Trabalho2Novo\Client\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\franc\OneDrive\Ambiente de Trabalho\Trabalho2Novo\Client\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\franc\OneDrive\Ambiente de Trabalho\Trabalho2Novo\Client\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\franc\OneDrive\Ambiente de Trabalho\Trabalho2Novo\Client\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\franc\OneDrive\Ambiente de Trabalho\Trabalho2Novo\Client\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\franc\OneDrive\Ambiente de Trabalho\Trabalho2Novo\Client\bin\Debug\net5.0-windows\Microsoft.Identity.Client.dll
+C:\Users\franc\OneDrive\Ambiente de Trabalho\Trabalho2Novo\Client\bin\Debug\net5.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\franc\OneDrive\Ambiente de Trabalho\Trabalho2Novo\Client\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\franc\OneDrive\Ambiente de Trabalho\Trabalho2Novo\Client\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\franc\OneDrive\Ambiente de Trabalho\Trabalho2Novo\Client\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\franc\OneDrive\Ambiente de Trabalho\Trabalho2Novo\Client\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\franc\OneDrive\Ambiente de Trabalho\Trabalho2Novo\Client\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+C:\Users\franc\OneDrive\Ambiente de Trabalho\Trabalho2Novo\Client\bin\Debug\net5.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\franc\OneDrive\Ambiente de Trabalho\Trabalho2Novo\Client\bin\Debug\net5.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\franc\OneDrive\Ambiente de Trabalho\Trabalho2Novo\Client\bin\Debug\net5.0-windows\System.Runtime.Caching.dll
+C:\Users\franc\OneDrive\Ambiente de Trabalho\Trabalho2Novo\Client\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\franc\OneDrive\Ambiente de Trabalho\Trabalho2Novo\Client\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\franc\OneDrive\Ambiente de Trabalho\Trabalho2Novo\Client\bin\Debug\net5.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\franc\OneDrive\Ambiente de Trabalho\Trabalho2Novo\Client\bin\Debug\net5.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\franc\OneDrive\Ambiente de Trabalho\Trabalho2Novo\Client\bin\Debug\net5.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\franc\OneDrive\Ambiente de Trabalho\Trabalho2Novo\Client\bin\Debug\net5.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\franc\OneDrive\Ambiente de Trabalho\Trabalho2Novo\Client\bin\Debug\net5.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\franc\OneDrive\Ambiente de Trabalho\Trabalho2Novo\Client\bin\Debug\net5.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\franc\OneDrive\Ambiente de Trabalho\Trabalho2Novo\Client\bin\Debug\net5.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\franc\OneDrive\Ambiente de Trabalho\Trabalho2Novo\Client\bin\Debug\net5.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\franc\OneDrive\Ambiente de Trabalho\Trabalho2Novo\Client\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\franc\OneDrive\Ambiente de Trabalho\Trabalho2Novo\Client\obj\Debug\net5.0-windows\Client.csproj.AssemblyReference.cache
+C:\Users\franc\OneDrive\Ambiente de Trabalho\Trabalho2Novo\Client\obj\Debug\net5.0-windows\Client.Fundos.resources
+C:\Users\franc\OneDrive\Ambiente de Trabalho\Trabalho2Novo\Client\obj\Debug\net5.0-windows\Client.Inicial.resources
+C:\Users\franc\OneDrive\Ambiente de Trabalho\Trabalho2Novo\Client\obj\Debug\net5.0-windows\Client.Listas.resources
+C:\Users\franc\OneDrive\Ambiente de Trabalho\Trabalho2Novo\Client\obj\Debug\net5.0-windows\Client.Login.resources
+C:\Users\franc\OneDrive\Ambiente de Trabalho\Trabalho2Novo\Client\obj\Debug\net5.0-windows\Client.csproj.GenerateResource.cache
+C:\Users\franc\OneDrive\Ambiente de Trabalho\Trabalho2Novo\Client\obj\Debug\net5.0-windows\Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\franc\OneDrive\Ambiente de Trabalho\Trabalho2Novo\Client\obj\Debug\net5.0-windows\Client.AssemblyInfoInputs.cache
+C:\Users\franc\OneDrive\Ambiente de Trabalho\Trabalho2Novo\Client\obj\Debug\net5.0-windows\Client.AssemblyInfo.cs
+C:\Users\franc\OneDrive\Ambiente de Trabalho\Trabalho2Novo\Client\obj\Debug\net5.0-windows\Client.csproj.CoreCompileInputs.cache
+C:\Users\franc\OneDrive\Ambiente de Trabalho\Trabalho2Novo\Client\obj\Debug\net5.0-windows\Client.csproj.CopyComplete
+C:\Users\franc\OneDrive\Ambiente de Trabalho\Trabalho2Novo\Client\obj\Debug\net5.0-windows\Client.dll
+C:\Users\franc\OneDrive\Ambiente de Trabalho\Trabalho2Novo\Client\obj\Debug\net5.0-windows\ref\Client.dll
+C:\Users\franc\OneDrive\Ambiente de Trabalho\Trabalho2Novo\Client\obj\Debug\net5.0-windows\Client.pdb
+C:\Users\franc\OneDrive\Ambiente de Trabalho\Trabalho2Novo\Client\obj\Debug\net5.0-windows\Client.genruntimeconfig.cache
+C:\Users\franc\OneDrive\Ambiente de Trabalho\Trabalho2Novo\Client\obj\Debug\net5.0-windows\Client.Recibo.resources
+C:\Users\Duda Bastos\Dropbox\SD\Trabalho2Novo\Client\bin\Debug\net5.0-windows\Client.exe
+C:\Users\Duda Bastos\Dropbox\SD\Trabalho2Novo\Client\bin\Debug\net5.0-windows\Client.deps.json
+C:\Users\Duda Bastos\Dropbox\SD\Trabalho2Novo\Client\bin\Debug\net5.0-windows\Client.runtimeconfig.json
+C:\Users\Duda Bastos\Dropbox\SD\Trabalho2Novo\Client\bin\Debug\net5.0-windows\Client.runtimeconfig.dev.json
+C:\Users\Duda Bastos\Dropbox\SD\Trabalho2Novo\Client\bin\Debug\net5.0-windows\Client.dll
+C:\Users\Duda Bastos\Dropbox\SD\Trabalho2Novo\Client\bin\Debug\net5.0-windows\ref\Client.dll
+C:\Users\Duda Bastos\Dropbox\SD\Trabalho2Novo\Client\bin\Debug\net5.0-windows\Client.pdb
+C:\Users\Duda Bastos\Dropbox\SD\Trabalho2Novo\Client\bin\Debug\net5.0-windows\Google.Protobuf.dll
+C:\Users\Duda Bastos\Dropbox\SD\Trabalho2Novo\Client\bin\Debug\net5.0-windows\Grpc.AspNetCore.Web.dll
+C:\Users\Duda Bastos\Dropbox\SD\Trabalho2Novo\Client\bin\Debug\net5.0-windows\Grpc.Core.Api.dll
+C:\Users\Duda Bastos\Dropbox\SD\Trabalho2Novo\Client\bin\Debug\net5.0-windows\Grpc.Net.Client.dll
+C:\Users\Duda Bastos\Dropbox\SD\Trabalho2Novo\Client\bin\Debug\net5.0-windows\Grpc.Net.Common.dll
+C:\Users\Duda Bastos\Dropbox\SD\Trabalho2Novo\Client\bin\Debug\net5.0-windows\Humanizer.dll
+C:\Users\Duda Bastos\Dropbox\SD\Trabalho2Novo\Client\bin\Debug\net5.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Duda Bastos\Dropbox\SD\Trabalho2Novo\Client\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\Duda Bastos\Dropbox\SD\Trabalho2Novo\Client\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Duda Bastos\Dropbox\SD\Trabalho2Novo\Client\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Duda Bastos\Dropbox\SD\Trabalho2Novo\Client\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Duda Bastos\Dropbox\SD\Trabalho2Novo\Client\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Duda Bastos\Dropbox\SD\Trabalho2Novo\Client\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Duda Bastos\Dropbox\SD\Trabalho2Novo\Client\bin\Debug\net5.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Duda Bastos\Dropbox\SD\Trabalho2Novo\Client\bin\Debug\net5.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Duda Bastos\Dropbox\SD\Trabalho2Novo\Client\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Duda Bastos\Dropbox\SD\Trabalho2Novo\Client\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Duda Bastos\Dropbox\SD\Trabalho2Novo\Client\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Duda Bastos\Dropbox\SD\Trabalho2Novo\Client\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Duda Bastos\Dropbox\SD\Trabalho2Novo\Client\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+C:\Users\Duda Bastos\Dropbox\SD\Trabalho2Novo\Client\bin\Debug\net5.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Duda Bastos\Dropbox\SD\Trabalho2Novo\Client\bin\Debug\net5.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Duda Bastos\Dropbox\SD\Trabalho2Novo\Client\bin\Debug\net5.0-windows\System.Runtime.Caching.dll
+C:\Users\Duda Bastos\Dropbox\SD\Trabalho2Novo\Client\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Duda Bastos\Dropbox\SD\Trabalho2Novo\Client\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Duda Bastos\Dropbox\SD\Trabalho2Novo\Client\bin\Debug\net5.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Duda Bastos\Dropbox\SD\Trabalho2Novo\Client\bin\Debug\net5.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Duda Bastos\Dropbox\SD\Trabalho2Novo\Client\bin\Debug\net5.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Duda Bastos\Dropbox\SD\Trabalho2Novo\Client\bin\Debug\net5.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Duda Bastos\Dropbox\SD\Trabalho2Novo\Client\bin\Debug\net5.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Duda Bastos\Dropbox\SD\Trabalho2Novo\Client\bin\Debug\net5.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Duda Bastos\Dropbox\SD\Trabalho2Novo\Client\bin\Debug\net5.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Duda Bastos\Dropbox\SD\Trabalho2Novo\Client\bin\Debug\net5.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Duda Bastos\Dropbox\SD\Trabalho2Novo\Client\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Duda Bastos\Dropbox\SD\Trabalho2Novo\Client\obj\Debug\net5.0-windows\Client.csproj.AssemblyReference.cache
+C:\Users\Duda Bastos\Dropbox\SD\Trabalho2Novo\Client\obj\Debug\net5.0-windows\Client.Fundos.resources
+C:\Users\Duda Bastos\Dropbox\SD\Trabalho2Novo\Client\obj\Debug\net5.0-windows\Client.Inicial.resources
+C:\Users\Duda Bastos\Dropbox\SD\Trabalho2Novo\Client\obj\Debug\net5.0-windows\Client.Listas.resources
+C:\Users\Duda Bastos\Dropbox\SD\Trabalho2Novo\Client\obj\Debug\net5.0-windows\Client.Login.resources
+C:\Users\Duda Bastos\Dropbox\SD\Trabalho2Novo\Client\obj\Debug\net5.0-windows\Client.Recibo.resources
+C:\Users\Duda Bastos\Dropbox\SD\Trabalho2Novo\Client\obj\Debug\net5.0-windows\Client.csproj.GenerateResource.cache
+C:\Users\Duda Bastos\Dropbox\SD\Trabalho2Novo\Client\obj\Debug\net5.0-windows\Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Duda Bastos\Dropbox\SD\Trabalho2Novo\Client\obj\Debug\net5.0-windows\Client.AssemblyInfoInputs.cache
+C:\Users\Duda Bastos\Dropbox\SD\Trabalho2Novo\Client\obj\Debug\net5.0-windows\Client.AssemblyInfo.cs
+C:\Users\Duda Bastos\Dropbox\SD\Trabalho2Novo\Client\obj\Debug\net5.0-windows\Client.csproj.CoreCompileInputs.cache
+C:\Users\Duda Bastos\Dropbox\SD\Trabalho2Novo\Client\obj\Debug\net5.0-windows\Client.dll
+C:\Users\Duda Bastos\Dropbox\SD\Trabalho2Novo\Client\obj\Debug\net5.0-windows\ref\Client.dll
+C:\Users\Duda Bastos\Dropbox\SD\Trabalho2Novo\Client\obj\Debug\net5.0-windows\Client.pdb
+C:\Users\Duda Bastos\Dropbox\SD\Trabalho2Novo\Client\obj\Debug\net5.0-windows\Client.genruntimeconfig.cache

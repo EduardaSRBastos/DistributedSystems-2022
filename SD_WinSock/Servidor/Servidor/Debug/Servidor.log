@@ -1,0 +1,6 @@
+﻿  Source.c
+C:\Users\franc\Dropbox\SD\Servidor\Servidor\Source.c(60,36): warning C4305: 'function': truncation from 'int' to 'u_short'
+C:\Users\franc\Dropbox\SD\Servidor\Servidor\Source.c(152,24): warning C4013: 'StrToTema' undefined; assuming extern returning int
+C:\Users\franc\Dropbox\SD\Servidor\Servidor\Source.c(156,10): warning C4244: 'return': conversion from 'UINT64' to 'int', possible loss of data
+C:\Users\franc\Dropbox\SD\Servidor\Servidor\Source.c(172): warning C4715: 'StrToTema': not all control paths return a value
+  Servidor.vcxproj -> C:\Users\franc\Dropbox\SD\Servidor\Debug\Servidor.exe

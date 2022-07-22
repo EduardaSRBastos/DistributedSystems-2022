@@ -1,0 +1,9 @@
+﻿  Source.c
+C:\Users\franc\source\repos\SD\Client\Client\Source.c(45,31): warning C4305: 'function': truncation from 'int' to 'u_short'
+C:\Users\franc\source\repos\SD\Client\Client\Source.c(59,46): warning C4267: 'function': conversion from 'size_t' to 'int', possible loss of data
+  Generating code
+  1 of 7 functions (14.3%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Client.vcxproj -> C:\Users\franc\source\repos\SD\Client\x64\Release\Client.exe

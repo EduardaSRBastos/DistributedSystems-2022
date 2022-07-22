@@ -1,0 +1,12 @@
+﻿  Source.c
+C:\Users\franc\Dropbox\SD\Servidor\Servidor\Source.c(60,36): warning C4305: 'function': truncation from 'int' to 'u_short'
+C:\Users\franc\Dropbox\SD\Servidor\Servidor\Source.c(98,49): warning C4267: 'function': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\franc\Dropbox\SD\Servidor\Servidor\Source.c(101,49): warning C4267: 'function': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\franc\Dropbox\SD\Servidor\Servidor\Source.c(113,49): warning C4267: 'function': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\franc\Dropbox\SD\Servidor\Servidor\Source.c(122,49): warning C4267: 'function': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\franc\Dropbox\SD\Servidor\Servidor\Source.c(127,49): warning C4267: 'function': conversion from 'size_t' to 'int', possible loss of data
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 12 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Servidor.vcxproj -> C:\Users\franc\Dropbox\SD\Servidor\x64\Release\Servidor.exe
